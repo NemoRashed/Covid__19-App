@@ -160,7 +160,7 @@ function Home() {
             </div>
 
             <div class="box">
-              <img src="do-img2.png" alt="" />
+              <img src="do-img2.png" />
               <div class="info">
                 <h3>always wear a mask</h3>
                 <p>
@@ -172,7 +172,7 @@ function Home() {
             </div>
 
             <div class="box">
-              <img src="do-img3.png" alt="" />
+              <img src="do-img3.png" />
               <div class="info">
                 <h3>stay home during fever</h3>
                 <p>
